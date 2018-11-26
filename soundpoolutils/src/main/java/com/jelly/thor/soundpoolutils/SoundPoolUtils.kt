@@ -14,7 +14,7 @@ import androidx.annotation.NonNull
  * 创建人：吴冬冬<br/>
  * 创建时间：2018/11/22 14:51 <br/>
  */
-class SoundPoolUtils {
+class SoundPoolUtils private constructor() {
     /**
      * 每次单例保存的音源ID
      */
