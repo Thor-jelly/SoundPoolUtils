@@ -1,1 +1,1 @@
-include ':soundpoolutils'
+include ':soundpoolutils', ':example'
